@@ -1,4 +1,4 @@
-## Hello there 👋
+# Hello there 👋
 I'm a dedicated graduate student currently affiliated with [SANKEN](https://www.sanken.osaka-u.ac.jp/en/), based in Osaka, Japan. I am interested in time series analysis. I'm currently exploring with the aim of making significant contributions through my studies and research.
 
 
@@ -17,6 +17,7 @@ I'm a dedicated graduate student currently affiliated with [SANKEN](https://www.
 ### Database and Cloud
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ### Containerization
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
