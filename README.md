@@ -4,6 +4,7 @@ I'm a dedicated graduate student currently affiliated with [SANKEN](https://www.
 
 ## Get in touch 🌐
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/C__Naoki)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/naoki-chihara-0a35a827a//)
 
 ## What I work with 💻
 ### Languages and Frameworks
@@ -13,6 +14,7 @@ I'm a dedicated graduate student currently affiliated with [SANKEN](https://www.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
 ### Database and Cloud
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
@@ -25,9 +27,9 @@ I'm a dedicated graduate student currently affiliated with [SANKEN](https://www.
 
 ## GitHub Stats 📊
 <img alt="github Profile Summary Cards" width="98.3%" align=center src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=C-Naoki&theme=dracula" /><br/>
-<img alt="github Profile Summary Cards" width="98.3%" align=center src="https://github-readme-streak-stats.herokuapp.com/?user=C-Naoki&theme=dracula&hide_border=false" /><br/>
-<img alt="Top Langs" width="44.5%" src="https://github-readme-stats-vercel-wea9.vercel.app/api/top-langs/?username=C-Naoki&layout=compact&show_icons=true&theme=dracula" />
-<img alt="github stats" width="53.3%" src="https://github-readme-stats-vercel-wea9.vercel.app/api?username=C-Naoki&theme=dracula&show_icons=ture&count_private=true" />
+<img alt="github Profile Summary Cards" width="98.3%" align=center src="https://github-readme-streak-stats.herokuapp.com/?user=C-Naoki&theme=dracula" /><br/>
+<img alt="github Profile Summary Cards" width="34.3%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C-Naoki&hide=jupyter%20notebook&theme=dracula" />
+<img alt="github Profile Summary Cards" width="64.0%" src="https://github-readme-stats.vercel.app/api?username=C-Naoki&count_private=true&show_icons=true&theme=dracula" />
 
 ## GitHub Trophies 🏆
 ![](https://github-profile-trophy.vercel.app/?username=C-Naoki&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
