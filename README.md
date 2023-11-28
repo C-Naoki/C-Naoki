@@ -4,7 +4,7 @@ I'm a dedicated graduate student currently affiliated with [SANKEN](https://www.
 
 ## Get in touch 🌐
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/C__Naoki)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/naoki-chihara-0a35a827a//)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/naoki-chihara-0a35a827a/)
 
 ## What I work with 💻
 ### Languages and Frameworks
