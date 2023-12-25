@@ -26,13 +26,12 @@ I'm a dedicated graduate student currently affiliated with [SANKEN](https://www.
 
 
 ## GitHub Stats 📊
-<img alt="github Profile Summary Cards" width="98.3%" align=center src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=C-Naoki&theme=dracula" /><br/>
 <img alt="github Profile Summary Cards" width="98.3%" align=center src="https://github-readme-streak-stats.herokuapp.com/?user=C-Naoki&theme=dracula" /><br/>
-<img alt="github Profile Summary Cards" width="34.3%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C-Naoki&hide=jupyter%20notebook&theme=dracula" />
-<img alt="github Profile Summary Cards" width="64.0%" src="https://github-readme-stats.vercel.app/api?username=C-Naoki&count_private=true&show_icons=true&theme=dracula" />
+<img alt="github Profile Summary Cards" width="29.9%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C-Naoki&hide=jupyter%20notebook&theme=onedark" />
+<img alt="github Profile Summary Cards" width="67.9%" src="https://github-readme-stats.vercel.app/api?username=C-Naoki&count_private=true&show_icons=true&theme=onedark" />
 
 ## GitHub Trophies 🏆
-![](https://github-profile-trophy.vercel.app/?username=C-Naoki&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=C-Naoki&theme=onedark&no-frame=false&no-bg=false&margin-w=1&column=10)
 ---
 
 [![](https://visitcount.itsvg.in/api?id=C-Naoki&icon=0&color=0)](https://visitcount.itsvg.in)
