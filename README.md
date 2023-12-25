@@ -26,7 +26,7 @@ I'm a dedicated graduate student currently affiliated with [SANKEN](https://www.
 
 
 ## GitHub Stats 📊
-<img alt="github Profile Summary Cards" width="98.3%" align=center src="https://github-readme-streak-stats.herokuapp.com/?user=C-Naoki&theme=dracula" /><br/>
+<img alt="github Profile Summary Cards" width="98.3%" align=center src="https://github-readme-streak-stats.herokuapp.com/?user=C-Naoki&theme=onedark" /><br/>
 <img alt="github Profile Summary Cards" width="29.9%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C-Naoki&hide=jupyter%20notebook&theme=onedark" />
 <img alt="github Profile Summary Cards" width="67.9%" src="https://github-readme-stats.vercel.app/api?username=C-Naoki&count_private=true&show_icons=true&theme=onedark" />
 
