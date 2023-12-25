@@ -31,7 +31,8 @@ I'm a dedicated graduate student currently affiliated with [SANKEN](https://www.
 <img alt="github Profile Summary Cards" width="67.9%" src="https://github-readme-stats.vercel.app/api?username=C-Naoki&count_private=true&show_icons=true&theme=onedark" />
 
 ## GitHub Trophies 🏆
-![](https://github-profile-trophy.vercel.app/?username=C-Naoki&theme=onedark&no-frame=false&no-bg=false&margin-w=1&column=10)
+![](https://github-profile-trophy.vercel.app/?username=C-Naoki&theme=onedark&no-frame=false&no-bg=false&margin-w=1&column=7&row=1)
+
 ---
 
 [![](https://visitcount.itsvg.in/api?id=C-Naoki&icon=0&color=0)](https://visitcount.itsvg.in)
