@@ -1,14 +1,16 @@
 # Hello there 👋
-I'm a dedicated graduate student currently affiliated with [SANKEN](https://www.sanken.osaka-u.ac.jp/en/), based in Osaka, Japan. I am interested in time series analysis. I'm currently exploring with the aim of making significant contributions through my studies and research.
+I am a first-year M.Sc. student working as a project researcher at [SANKEN](https://www.sanken.osaka-u.ac.jp/en/), [Osaka University](https://www.osaka-u.ac.jp/en). I am interested in time-series analysis. I'm currently exploring to make significant contributions through my studies and research. I am also affiliated with [Humanware Innovation Program](https://www.humanware.osaka-u.ac.jp/en/) and [GDSC Osaka](https://gdsc-osaka.jp/). Please visit my [portfolio](https://c-naoki.vercel.app/) to know more about me.
 
-
-## Get in touch 🌐
+## Contact 🌐
+[![Portfolio](https://img.shields.io/badge/Portfolio-027B58?logo=CentOS)](https://c-naoki.vercel.app/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/C__Naoki)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/naoki-chihara-0a35a827a/)
+[![AtCoder Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2FC_NaoKi)](https://atcoder.jp/users/C_NaoKi)
 
-## What I work with 💻
+## Skills 💻
 ### Languages and Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -27,11 +29,11 @@ I'm a dedicated graduate student currently affiliated with [SANKEN](https://www.
 
 ## GitHub Stats 📊
 <img alt="github Profile Summary Cards" width="98.3%" align=center src="https://github-readme-streak-stats.herokuapp.com/?user=C-Naoki&theme=onedark" /><br/>
-<img alt="github Profile Summary Cards" width="29.9%" height="290" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C-Naoki&hide=jupyter%20notebook&theme=onedark" />
-<img alt="github Profile Summary Cards" width="67.9%" height="290" src="https://github-readme-stats.vercel.app/api?username=C-Naoki&count_private=true&show_icons=true&theme=onedark" />
+<img alt="github Profile Summary Cards" width="29.9%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C-Naoki&hide=jupyter%20notebook&theme=onedark" />
+<img alt="github Profile Summary Cards" width="67.9%" height="100%" src="https://github-readme-stats.vercel.app/api?username=C-Naoki&count_private=true&show_icons=true&theme=onedark" />
 
 ## GitHub Trophies 🏆
-![](https://github-profile-trophy.vercel.app/?username=C-Naoki&theme=onedark&no-frame=false&no-bg=false&margin-w=1&column=7&row=1)
+![](https://github-profile-trophy.vercel.app/?username=C-Naoki&theme=onedark&no-frame=false&no-bg=false&margin-w=1&column=6&row=1)
 
 ---
 
