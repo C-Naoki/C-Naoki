@@ -1,5 +1,5 @@
 # Hello there 👋
-I am a first-year M.Sc. student working as a project researcher at [SANKEN](https://www.sanken.osaka-u.ac.jp/en/), [Osaka University](https://www.osaka-u.ac.jp/en). I am interested in time-series analysis. I'm currently exploring to make significant contributions through my studies and research. I am also participating in [Humanware Innovation Program](https://www.humanware.osaka-u.ac.jp/en/) and a member of [GDSC Osaka](https://gdsc-osaka.jp/). Please visit my [portfolio](https://c-naoki.vercel.app/) to know more about me.
+I am a first-year M.Sc. student engaged as a project researcher at [SANKEN](https://www.sanken.osaka-u.ac.jp/en/), [Osaka University](https://www.osaka-u.ac.jp/en). I am interested in time-series analysis. I'm currently exploring to make significant contributions through my studies and research. I am actively participating in [Humanware Innovation Program](https://www.humanware.osaka-u.ac.jp/en/) and am a member of [GDSC Osaka](https://gdsc-osaka.jp/). For more information about me, please visit my [portfolio](https://c-naoki.vercel.app/).
 
 ## Contact 🌐
 [![Portfolio](https://img.shields.io/badge/Portfolio-027B58?logo=CentOS)](https://c-naoki.vercel.app/)
