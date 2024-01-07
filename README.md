@@ -1,11 +1,10 @@
 # Hello there 👋
-I am a first-year M.Sc. student working as a project researcher at [SANKEN](https://www.sanken.osaka-u.ac.jp/en/), [Osaka University](https://www.osaka-u.ac.jp/en). I am interested in time-series analysis. I'm currently exploring to make significant contributions through my studies and research. I am also affiliated with [Humanware Innovation Program](https://www.humanware.osaka-u.ac.jp/en/) and [GDSC Osaka](https://gdsc-osaka.jp/). Please visit my [portfolio](https://c-naoki.vercel.app/) to know more about me.
+I am a first-year M.Sc. student working as a project researcher at [SANKEN](https://www.sanken.osaka-u.ac.jp/en/), [Osaka University](https://www.osaka-u.ac.jp/en). I am interested in time-series analysis. I'm currently exploring to make significant contributions through my studies and research. I am also participating in [Humanware Innovation Program](https://www.humanware.osaka-u.ac.jp/en/) and a member of [GDSC Osaka](https://gdsc-osaka.jp/). Please visit my [portfolio](https://c-naoki.vercel.app/) to know more about me.
 
 ## Contact 🌐
 [![Portfolio](https://img.shields.io/badge/Portfolio-027B58?logo=CentOS)](https://c-naoki.vercel.app/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/C__Naoki)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/naoki-chihara-0a35a827a/)
-[![AtCoder Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2FC_NaoKi)](https://atcoder.jp/users/C_NaoKi)
 
 ## Skills 💻
 ### Languages and Frameworks
