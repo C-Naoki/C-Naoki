@@ -5,6 +5,7 @@ I am a first-year M.Sc. student engaged as a project researcher at <a href="http
 [![Portfolio](https://img.shields.io/badge/Portfolio-027B58?logo=CentOS)](https://c-naoki.vercel.app/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/C__Naoki)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/naoki-chihara-0a35a827a/)
+[![GoogleScholar](https://img.shields.io/badge/GoogleScholar-f5f5f5?logo=googlescholar)](https://scholar.google.com/citations?hl=ja&user=pq2b3jQAAAAJ)
 
 ## Skills 💻
 ### Languages
