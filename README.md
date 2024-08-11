@@ -38,7 +38,7 @@ I am a second-year M.Sc. student engaged as a project researcher at <a href="htt
 <img alt="github Profile Summary Cards" width="67.9%" height="100%" src="https://github-readme-stats.vercel.app/api?username=C-Naoki&count_private=true&show_icons=true&theme=onedark" />
 
 ## GitHub Trophies 🏆
-![](https://github-profile-trophy.vercel.app/?username=C-Naoki&theme=onedark&no-frame=false&no-bg=false&margin-w=1&column=6&row=1)
+![](https://github-trophies.vercel.app/?username=C-Naoki&theme=onedark)
 
 ---
 
