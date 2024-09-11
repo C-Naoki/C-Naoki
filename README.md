@@ -33,9 +33,17 @@ I am a second-year M.Sc. student engaged as a project researcher at <a href="htt
 
 
 ## GitHub Stats 📊
-<img alt="github Profile Summary Cards" width="98.3%" align=center src="https://github-readme-streak-stats.herokuapp.com/?user=C-Naoki&theme=onedark" /><br/>
-<img alt="github Profile Summary Cards" width="29.9%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C-Naoki&hide=jupyter%20notebook&theme=onedark" />
-<img alt="github Profile Summary Cards" width="67.9%" height="100%" src="https://github-readme-stats.vercel.app/api?username=C-Naoki&count_private=true&show_icons=true&theme=onedark" />
+<span>
+  <img alt="github Profile Summary Cards" height="270" src="https://github-readme-streak-stats.herokuapp.com/?user=C-Naoki&theme=onedark" />
+</span>
+<p>
+  <span>
+    <img alt="github Profile Summary Cards" height="197.5" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C-Naoki&hide=jupyter%20notebook&theme=onedark" />
+  </span>
+  <span>
+    <img alt="github Profile Summary Cards" height="197.5" src="https://github-readme-stats.vercel.app/api?username=C-Naoki&count_private=true&show_icons=true&theme=onedark" />
+  </span>
+</p>
 
 ## GitHub Trophies 🏆
 ![](https://github-trophies.vercel.app/?username=C-Naoki&theme=onedark)
