@@ -45,72 +45,103 @@ I am a second-year M.Sc. student engaged as a project researcher at <a href="htt
   </span>
 </p>
 
-## This Week I Spent My Time On ⏳
+## OSS Insights 📈
+
+<!-- Copy-paste in your Readme.md file -->
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=74347818" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=74347818&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @C-Naoki" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=74347818&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
+
+<!-- Copy-paste in your Readme.md file -->
+
+<!-- <a href="https://next.ossinsight.io/widgets/official/compose-currently-working-on?activity_type=pull_requests&user_id=74347818" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?activity_type=pull_requests&user_id=74347818&image_size=auto&color_scheme=dark" width="497.5" height="auto">
+    <img alt="@C-Naoki's Recent Work - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?activity_type=pull_requests&user_id=74347818&image_size=auto&color_scheme=light" width="497.5" height="auto">
+  </picture>
+</a> -->
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
+
+## GitHub Trophies 🏆
+![](https://github-trophies.vercel.app/?username=C-Naoki&theme=onedark)
+
+## Others 🌀
+
+### Wakatime Stats 🕒
+<details>
+    <summary>Development Metrics</summary>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%208%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
-> 📦 183.4 kB Used in GitHub's Storage 
- > 
+> 📦 183.4 kB Used in GitHub's Storage
+ >
 > 🏆 736 Contributions in the Year 2024
- > 
+ >
 > 🚫 Not Opted to Hire
- > 
-> 📜 22 Public Repositories 
- > 
-> 🔑 11 Private Repositories 
- > 
-**I'm a Night 🦉** 
+ >
+> 📜 22 Public Repositories
+ >
+> 🔑 11 Private Repositories
+ >
+**I'm a Night 🦉**
 
 ```text
-🌞 Morning                225 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
-🌆 Daytime                421 commits         ████████░░░░░░░░░░░░░░░░░   31.49 % 
-🌃 Evening                474 commits         █████████░░░░░░░░░░░░░░░░   35.45 % 
-🌙 Night                  217 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
+🌞 Morning                225 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.83 %
+🌆 Daytime                421 commits         ████████░░░░░░░░░░░░░░░░░   31.49 %
+🌃 Evening                474 commits         █████████░░░░░░░░░░░░░░░░   35.45 %
+🌙 Night                  217 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.23 %
 ```
-📅 **I'm Most Productive on Sunday** 
+📅 **I'm Most Productive on Sunday**
 
 ```text
-Monday                   172 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
-Tuesday                  193 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
-Wednesday                187 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
-Thursday                 188 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
-Friday                   187 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
-Saturday                 188 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
-Sunday                   222 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
+Monday                   172 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.86 %
+Tuesday                  193 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.44 %
+Wednesday                187 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.99 %
+Thursday                 188 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.06 %
+Friday                   187 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.99 %
+Saturday                 188 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.06 %
+Sunday                   222 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.60 %
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Asia/Tokyo
 
-💬 Programming Languages: 
+💬 Programming Languages:
 No Activity Tracked This Week
 
-🔥 Editors: 
+🔥 Editors:
 No Activity Tracked This Week
 
-🐱‍💻 Projects: 
+🐱‍💻 Projects:
 No Activity Tracked This Week
 
-💻 Operating System: 
+💻 Operating System:
 No Activity Tracked This Week
 ```
 
-**I Mostly Code in Python** 
+**I Mostly Code in Python**
 
 ```text
-Python                   12 repos            ██████████░░░░░░░░░░░░░░░   41.38 % 
-Jupyter Notebook         9 repos             ████████░░░░░░░░░░░░░░░░░   31.03 % 
-Shell                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+Python                   12 repos            ██████████░░░░░░░░░░░░░░░   41.38 %
+Jupyter Notebook         9 repos             ████████░░░░░░░░░░░░░░░░░   31.03 %
+Shell                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 %
+TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 %
+Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
 ```
 
 
@@ -123,9 +154,11 @@ Go                       1 repo              █░░░░░░░░░░�
  Last Updated on 03/10/2024 12:01:56 UTC
 <!--END_SECTION:waka-->
 
-## GitHub Trophies 🏆
-![](https://github-trophies.vercel.app/?username=C-Naoki&theme=onedark)
+</details>
 
----
+### This page status 🚶
 
-[![](https://visitcount.itsvg.in/api?id=C-Naoki&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="left">
+    <img alt="Visitor Stats"
+        src="https://widgetbite.com/stats/c-naoki"/>
+</div>
