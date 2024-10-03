@@ -45,6 +45,15 @@ I am a second-year M.Sc. student engaged as a project researcher at <a href="htt
   </span>
 </p>
 
+## This Week I Spent My Time On ⏳
+<!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
+<!--END_SECTION:waka-->
+
 ## GitHub Trophies 🏆
 ![](https://github-trophies.vercel.app/?username=C-Naoki&theme=onedark)
 
