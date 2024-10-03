@@ -1,4 +1,21 @@
 # Hello there 👋
+
+<p align="center">
+  <a href="https://github.com/c-naoki/c-naoki/"><img height="20" src="https://komarev.com/ghpvc/?username=c-naoki" alt="c-naoki"/></a>
+  <a href="https://github.com/c-naoki"><img height="20" src="https://img.shields.io/github/followers/c-naoki?label=follow&logo=github&style=flat"/></a>
+  <a href="https://github.com/c-naoki"><img height="20" src="https://img.shields.io/github/stars/c-naoki?logo=github&style=flat"/></a>
+  <a href="http://x.com/c_naoki88"><img height="20" src="https://img.shields.io/twitter/follow/c_naoki88?style=flat&logo=x"/></a>
+</p>
+
+<p align="center">
+  <a href="https://zenn.dev/naoki0103"><img height="20" src="https://badgen.org/img/zenn/naoki0103/likes?style=plastic" alt="Likes"/></a>
+  <a href="https://zenn.dev/naoki0103"><img height="20" src="https://badgen.org/img/zenn/naoki0103/followers?style=plastic" alt="Followers" /></a>
+<a href="https://zenn.dev/naoki0103"><img height="20" src="https://badgen.org/img/zenn/naoki0103/articles?style=plastic" alt="Articles" /></a>
+  <a href="https://qiita.com/c-naoki"><img height="20" src="https://badgen.org/img/qiita/C-naoki/contributions?style=plastic" alt="Contributions"/></a>
+  <a href="http://qiita.com/c-naoki"><img height="20" src="https://qiita-badge.apiapi.app/s/c-naoki/posts.svg"/></a>
+  <a><img height="20" src="https://badgen.org/img/atcoder/C_NaoKi/rating/algorithm?style=plastic" alt="Atcoder"/></a>
+</p>
+
 I am a second-year M.Sc. student engaged as a project researcher at <a href="https://www.sanken.osaka-u.ac.jp/en/" target="_blank">SANKEN</a>, <a href="https://www.sanken.osaka-u.ac.jp/en/" target="_blank">Osaka University</a>. I am interested in time-series analysis. I'm currently exploring to make significant contributions through my studies and research. I am actively participating in <a href="https://www.humanware.osaka-u.ac.jp/en/" target="_blank">Humanware Innovation Program</a> and am a member of <a href="https://gdsc-osaka.jp/" target="_blank">GDSC Osaka</a>. For more information about me, please visit my <a href="https://c-naoki.vercel.app/" target="_blank">portfolio</a>.
 
 ## Contact 🌐
@@ -81,65 +98,65 @@ I am a second-year M.Sc. student engaged as a project researcher at <a href="htt
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
-> 📦 183.5 kB Used in GitHub's Storage 
- > 
+> 📦 183.5 kB Used in GitHub's Storage
+ >
 > 🏆 744 Contributions in the Year 2024
- > 
+ >
 > 🚫 Not Opted to Hire
- > 
-> 📜 22 Public Repositories 
- > 
-> 🔑 11 Private Repositories 
- > 
-**I'm a Night 🦉** 
+ >
+> 📜 22 Public Repositories
+ >
+> 🔑 11 Private Repositories
+ >
+**I'm a Night 🦉**
 
 ```text
-🌞 Morning                225 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
-🌆 Daytime                421 commits         ████████░░░░░░░░░░░░░░░░░   31.35 % 
-🌃 Evening                480 commits         █████████░░░░░░░░░░░░░░░░   35.74 % 
-🌙 Night                  217 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
+🌞 Morning                225 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.75 %
+🌆 Daytime                421 commits         ████████░░░░░░░░░░░░░░░░░   31.35 %
+🌃 Evening                480 commits         █████████░░░░░░░░░░░░░░░░   35.74 %
+🌙 Night                  217 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.16 %
 ```
-📅 **I'm Most Productive on Sunday** 
+📅 **I'm Most Productive on Sunday**
 
 ```text
-Monday                   172 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
-Tuesday                  193 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
-Wednesday                187 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
-Thursday                 194 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
-Friday                   187 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
-Saturday                 188 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
-Sunday                   222 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
+Monday                   172 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.81 %
+Tuesday                  193 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.37 %
+Wednesday                187 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.92 %
+Thursday                 194 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.45 %
+Friday                   187 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.92 %
+Saturday                 188 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.00 %
+Sunday                   222 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.53 %
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Asia/Tokyo
 
-💬 Programming Languages: 
+💬 Programming Languages:
 No Activity Tracked This Week
 
-🔥 Editors: 
+🔥 Editors:
 No Activity Tracked This Week
 
-🐱‍💻 Projects: 
+🐱‍💻 Projects:
 No Activity Tracked This Week
 
-💻 Operating System: 
+💻 Operating System:
 No Activity Tracked This Week
 ```
 
-**I Mostly Code in Python** 
+**I Mostly Code in Python**
 
 ```text
-Python                   12 repos            ██████████░░░░░░░░░░░░░░░   41.38 % 
-Jupyter Notebook         9 repos             ████████░░░░░░░░░░░░░░░░░   31.03 % 
-Shell                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+Python                   12 repos            ██████████░░░░░░░░░░░░░░░   41.38 %
+Jupyter Notebook         9 repos             ████████░░░░░░░░░░░░░░░░░   31.03 %
+Shell                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 %
+TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 %
+Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
 ```
 
 
