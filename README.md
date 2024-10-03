@@ -80,6 +80,14 @@ Hi, I'm Naoki Chihara. I'm a second-year M.Sc. student at Osaka University.
 ### 🏆 GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=C-Naoki&theme=onedark)
 
+### 📋 GitHub Metrics
+<details>
+    <summary>&thinsp;Detailed Activity on GitHub</summary>
+
+[![Metrics](https://github.com/c-naoki/c-naoki/blob/main/images/github-metrics.svg)](https://github.com/lowlighter/metrics)
+
+</details>
+
 ### 🕒 Wakatime Stats
 <details>
     <summary>&thinsp;Development Metrics</summary>
@@ -166,7 +174,7 @@ Go                       1 repo              █░░░░░░░░░░�
 
 </details>
 
-### 💁‍♂️ This page status
+### 💁‍♂️ This Page Status
 
 <div align="left">
     <img alt="Visitor Stats"
