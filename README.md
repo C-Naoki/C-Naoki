@@ -4,7 +4,7 @@
   <a href="https://github.com/c-naoki/c-naoki/"><img height="20" src="https://komarev.com/ghpvc/?username=c-naoki&style=plastic" alt="c-naoki"/></a>
   <a href="https://github.com/c-naoki"><img height="20" src="https://img.shields.io/github/followers/c-naoki?label=followers&logo=github&style=plastic"/></a>
   <a href="https://github.com/c-naoki"><img height="20" src="https://img.shields.io/github/stars/c-naoki?logo=github&style=plastic"/></a>
-  <a href="http://x.com/c_naoki88"><img height="20" src="https://img.shields.io/badge/X-c__naoki88-999999.svg?style=plastic&logo=x"/></a>
+  <a href="http://x.com/c_naoki88"><img height="20" src="https://img.shields.io/badge/X-c__naoki88-000000.svg?style=plastic&logo=x"/></a>
   <a href="https://www.linkedin.com/in/c-naoki"><img height="20" src="https://img.shields.io/badge/LinkedIn-c--naoki-%230A66C2.svg?style=plastic&logo=LinkedIn&logoColor=white"/></a>
   <a href="https://c-naoki.vercel.app/"><img height="20" src="https://img.shields.io/badge/website-visit-027B58?logo=codepen&style=plastic"/></a></br>
   <a href="https://zenn.dev/naoki0103"><img height="20" src="https://badgen.org/img/zenn/naoki0103/likes?style=plastic" alt="Likes"/></a>
