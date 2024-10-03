@@ -48,7 +48,7 @@ I am a second-year M.Sc. student engaged as a project researcher at <a href="htt
 ## This Week I Spent My Time On ⏳
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%208%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -120,7 +120,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/C-Naoki/C-Naoki/main/assets/bar_graph.png)
 
 
- Last Updated on 03/10/2024 11:45:48 UTC
+ Last Updated on 03/10/2024 12:01:56 UTC
 <!--END_SECTION:waka-->
 
 ## GitHub Trophies 🏆
