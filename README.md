@@ -51,8 +51,8 @@ I am a second-year M.Sc. student engaged as a project researcher at <a href="htt
 
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=74347818" target="_blank" style="display: block" align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=74347818&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @C-Naoki" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=74347818&image_size=auto&color_scheme=light" width="771" height="auto">
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=74347818&image_size=auto&color_scheme=dark" width="685" height="auto">
+    <img alt="Dashboard stats of @C-Naoki" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=74347818&image_size=auto&color_scheme=light" width="685" height="auto">
   </picture>
 </a>
 
