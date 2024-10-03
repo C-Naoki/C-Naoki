@@ -6,10 +6,7 @@
   <a href="https://github.com/c-naoki"><img height="20" src="https://img.shields.io/github/stars/c-naoki?logo=github&style=plastic"/></a>
   <a href="http://x.com/c_naoki88"><img height="20" src="https://img.shields.io/badge/X-c__naoki88-999999.svg?style=plastic&logo=x"/></a>
   <a href="https://www.linkedin.com/in/c-naoki"><img height="20" src="https://img.shields.io/badge/LinkedIn-c--naoki-%230A66C2.svg?style=plastic&logo=LinkedIn&logoColor=white"/></a>
-  <a href="https://c-naoki.vercel.app/"><img height="20" src="https://img.shields.io/badge/website-visit-027B58?logo=codepen&style=plastic"/></a>
-</p>
-
-<p align="left">
+  <a href="https://c-naoki.vercel.app/"><img height="20" src="https://img.shields.io/badge/website-visit-027B58?logo=codepen&style=plastic"/></a></br>
   <a href="https://zenn.dev/naoki0103"><img height="20" src="https://badgen.org/img/zenn/naoki0103/likes?style=plastic" alt="Likes"/></a>
   <a href="https://zenn.dev/naoki0103"><img height="20" src="https://badgen.org/img/zenn/naoki0103/followers?style=plastic" alt="Followers" /></a>
   <a href="https://zenn.dev/naoki0103"><img height="20" src="https://badgen.org/img/zenn/naoki0103/articles?style=plastic" alt="Articles" /></a>
@@ -71,12 +68,12 @@ Hi, I'm Naoki Chihara. I'm a second-year M.Sc. student at Osaka University.
 
 <!-- Copy-paste in your Readme.md file -->
 
-<!-- <a href="https://next.ossinsight.io/widgets/official/compose-currently-working-on?activity_type=pull_requests&user_id=74347818" target="_blank" style="display: block" align="center">
+<a href="https://next.ossinsight.io/widgets/official/compose-currently-working-on?activity_type=all&user_id=74347818" target="_blank" style="display: block" align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?activity_type=pull_requests&user_id=74347818&image_size=auto&color_scheme=dark" width="497.5" height="auto">
-    <img alt="@C-Naoki's Recent Work - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?activity_type=pull_requests&user_id=74347818&image_size=auto&color_scheme=light" width="497.5" height="auto">
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?activity_type=all&user_id=74347818&image_size=auto&color_scheme=dark" width="497.5" height="auto">
+    <img alt="@C-Naoki's Recent Work - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?activity_type=all&user_id=74347818&image_size=auto&color_scheme=light" width="497.5" height="auto">
   </picture>
-</a> -->
+</a>
 
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
@@ -90,71 +87,71 @@ Hi, I'm Naoki Chihara. I'm a second-year M.Sc. student at Osaka University.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2013%20mins-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
-> 📦 183.6 kB Used in GitHub's Storage 
- > 
+> 📦 183.6 kB Used in GitHub's Storage
+ >
 > 🏆 748 Contributions in the Year 2024
- > 
+ >
 > 🚫 Not Opted to Hire
- > 
-> 📜 22 Public Repositories 
- > 
-> 🔑 11 Private Repositories 
- > 
-**I'm a Night 🦉** 
+ >
+> 📜 22 Public Repositories
+ >
+> 🔑 11 Private Repositories
+ >
+**I'm a Night 🦉**
 
 ```text
-🌞 Morning                225 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.70 % 
-🌆 Daytime                421 commits         ████████░░░░░░░░░░░░░░░░░   31.25 % 
-🌃 Evening                480 commits         █████████░░░░░░░░░░░░░░░░   35.63 % 
-🌙 Night                  221 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
+🌞 Morning                225 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.70 %
+🌆 Daytime                421 commits         ████████░░░░░░░░░░░░░░░░░   31.25 %
+🌃 Evening                480 commits         █████████░░░░░░░░░░░░░░░░   35.63 %
+🌙 Night                  221 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.41 %
 ```
-📅 **I'm Most Productive on Sunday** 
+📅 **I'm Most Productive on Sunday**
 
 ```text
-Monday                   172 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
-Tuesday                  193 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
-Wednesday                187 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
-Thursday                 194 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
-Friday                   191 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
-Saturday                 188 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
-Sunday                   222 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
+Monday                   172 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.77 %
+Tuesday                  193 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.33 %
+Wednesday                187 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.88 %
+Thursday                 194 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.40 %
+Friday                   191 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.18 %
+Saturday                 188 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.96 %
+Sunday                   222 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.48 %
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Asia/Tokyo
 
-💬 Programming Languages: 
-Markdown                 1 hr 42 mins        ███████████████░░░░░░░░░░   59.78 % 
-YAML                     56 mins             ████████░░░░░░░░░░░░░░░░░   33.05 % 
-Git                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
-TypeScript               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+💬 Programming Languages:
+Markdown                 1 hr 42 mins        ███████████████░░░░░░░░░░   59.78 %
+YAML                     56 mins             ████████░░░░░░░░░░░░░░░░░   33.05 %
+Git                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
+TypeScript               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
 
-🔥 Editors: 
-VS Code                  2 hrs 51 mins       █████████████████████████   100.00 % 
+🔥 Editors:
+VS Code                  2 hrs 51 mins       █████████████████████████   100.00 %
 
-🐱‍💻 Projects: 
-C-Naoki                  2 hrs 34 mins       ███████████████████████░░   90.24 % 
-image-stitcher           9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
-portfolio                6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+🐱‍💻 Projects:
+C-Naoki                  2 hrs 34 mins       ███████████████████████░░   90.24 %
+image-stitcher           9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 %
+portfolio                6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 %
 
-💻 Operating System: 
-Mac                      2 hrs 51 mins       █████████████████████████   100.00 % 
+💻 Operating System:
+Mac                      2 hrs 51 mins       █████████████████████████   100.00 %
 ```
 
-**I Mostly Code in Python** 
+**I Mostly Code in Python**
 
 ```text
-Python                   12 repos            ██████████░░░░░░░░░░░░░░░   41.38 % 
-Jupyter Notebook         9 repos             ████████░░░░░░░░░░░░░░░░░   31.03 % 
-Shell                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+Python                   12 repos            ██████████░░░░░░░░░░░░░░░   41.38 %
+Jupyter Notebook         9 repos             ████████░░░░░░░░░░░░░░░░░   31.03 %
+Shell                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 %
+TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 %
+Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
 ```
 
 
