@@ -48,6 +48,11 @@ I am a second-year M.Sc. student engaged as a project researcher at <a href="htt
 ## This Week I Spent My Time On ⏳
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ## GitHub Trophies 🏆
