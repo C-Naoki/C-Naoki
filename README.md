@@ -1,28 +1,27 @@
 # Hello there 👋
 
-<p align="center">
-  <a href="https://github.com/c-naoki/c-naoki/"><img height="20" src="https://komarev.com/ghpvc/?username=c-naoki" alt="c-naoki"/></a>
-  <a href="https://github.com/c-naoki"><img height="20" src="https://img.shields.io/github/followers/c-naoki?label=follow&logo=github&style=flat"/></a>
-  <a href="https://github.com/c-naoki"><img height="20" src="https://img.shields.io/github/stars/c-naoki?logo=github&style=flat"/></a>
-  <a href="http://x.com/c_naoki88"><img height="20" src="https://img.shields.io/twitter/follow/c_naoki88?style=flat&logo=x"/></a>
+<p align="left">
+  <a href="https://github.com/c-naoki/c-naoki/"><img height="20" src="https://komarev.com/ghpvc/?username=c-naoki&style=plastic" alt="c-naoki"/></a>
+  <a href="https://github.com/c-naoki"><img height="20" src="https://img.shields.io/github/followers/c-naoki?label=follow&logo=github&style=plastic"/></a>
+  <a href="https://github.com/c-naoki"><img height="20" src="https://img.shields.io/github/stars/c-naoki?logo=github&style=plastic"/></a>
+  <a href="https://github.com/c-naoki"><img height="" src=""/></a>
+  <a href="http://x.com/c_naoki88"><img height="20" src="https://img.shields.io/badge/X-c__naoki88-999999.svg?style=plastic&logo=x"/></a>
+  <a href="https://www.linkedin.com/in/c-naoki"><img height="20" src="https://img.shields.io/badge/LinkedIn-c--naoki-%230A66C2.svg?style=plastic&logo=LinkedIn&logoColor=white"/></a>
+  <a href="https://c-naoki.vercel.app/"><img height="20" src="https://img.shields.io/badge/website-visit-027B58?logo=codepen&style=plastic"/></a>
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://zenn.dev/naoki0103"><img height="20" src="https://badgen.org/img/zenn/naoki0103/likes?style=plastic" alt="Likes"/></a>
   <a href="https://zenn.dev/naoki0103"><img height="20" src="https://badgen.org/img/zenn/naoki0103/followers?style=plastic" alt="Followers" /></a>
-<a href="https://zenn.dev/naoki0103"><img height="20" src="https://badgen.org/img/zenn/naoki0103/articles?style=plastic" alt="Articles" /></a>
+  <a href="https://zenn.dev/naoki0103"><img height="20" src="https://badgen.org/img/zenn/naoki0103/articles?style=plastic" alt="Articles" /></a>
   <a href="https://qiita.com/c-naoki"><img height="20" src="https://badgen.org/img/qiita/C-naoki/contributions?style=plastic" alt="Contributions"/></a>
-  <a href="http://qiita.com/c-naoki"><img height="20" src="https://qiita-badge.apiapi.app/s/c-naoki/posts.svg"/></a>
-  <a><img height="20" src="https://badgen.org/img/atcoder/C_NaoKi/rating/algorithm?style=plastic" alt="Atcoder"/></a>
+  <a href="https://qiita.com/c-naoki"><img height="20" src="https://badgen.org/img/qiita/c-naoki/articles?style=plastic" alt="Articles" /></a>
+  <a href="https://atcoder.jp/users/c_naoki?contestType=algo"><img height="20" src="https://badgen.org/img/atcoder/c_naoki/rating/algorithm?style=plastic" alt="Rating" /></a>
 </p>
 
-I am a second-year M.Sc. student engaged as a project researcher at <a href="https://www.sanken.osaka-u.ac.jp/en/" target="_blank">SANKEN</a>, <a href="https://www.sanken.osaka-u.ac.jp/en/" target="_blank">Osaka University</a>. I am interested in time-series analysis. I'm currently exploring to make significant contributions through my studies and research. I am actively participating in <a href="https://www.humanware.osaka-u.ac.jp/en/" target="_blank">Humanware Innovation Program</a> and am a member of <a href="https://gdsc-osaka.jp/" target="_blank">GDSC Osaka</a>. For more information about me, please visit my <a href="https://c-naoki.vercel.app/" target="_blank">portfolio</a>.
+## Biography 📚
 
-## Contact 🌐
-[![Portfolio](https://img.shields.io/badge/Portfolio-027B58?logo=CentOS)](https://c-naoki.vercel.app/)
-[![X](https://img.shields.io/badge/X-black?logo=X)](https://X.com/C__Naoki)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/naoki-chihara-0a35a827a/)
-[![Zenn](https://img.shields.io/badge/Zenn-3ea8ff.svg?logo=Zenn&logoColor=white)](https://zenn.dev/naoki0103)
+I am a second-year M.Sc. student engaged as a project researcher at <a href="https://www.sanken.osaka-u.ac.jp/en/" target="_blank">SANKEN</a>, <a href="https://www.sanken.osaka-u.ac.jp/en/" target="_blank">Osaka University</a>. I am interested in time-series analysis. I'm currently exploring to make significant contributions through my studies and research. I am actively participating in <a href="https://www.humanware.osaka-u.ac.jp/en/" target="_blank">Humanware Innovation Program</a> and am a member of <a href="https://gdsc-osaka.jp/" target="_blank">GDSC Osaka</a>. For more information about me, please visit my <a href="https://c-naoki.vercel.app/" target="_blank">portfolio</a>.
 
 ## Skills 💻
 ### Languages
