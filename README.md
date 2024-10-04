@@ -97,7 +97,7 @@ Hi, I'm Naoki Chihara. I'm a second-year M.Sc. student at Osaka University.
 
 **🐱 My GitHub Data** 
 
-> 📦 184.0 kB Used in GitHub's Storage 
+> 📦 184.1 kB Used in GitHub's Storage 
  > 
 > 🏆 768 Contributions in the Year 2024
  > 
@@ -169,7 +169,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/C-Naoki/C-Naoki/main/assets/bar_graph.png)
 
 
- Last Updated on 04/10/2024 12:02:11 UTC
+ Last Updated on 04/10/2024 14:02:05 UTC
 <!--END_SECTION:waka-->
 
 </details>
