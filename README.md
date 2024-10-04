@@ -93,7 +93,7 @@ Hi, I'm Naoki Chihara. I'm a second-year M.Sc. student at Osaka University.
     <summary>&thinsp;Development Metrics</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2051%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -169,7 +169,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/C-Naoki/C-Naoki/main/assets/bar_graph.png)
 
 
- Last Updated on 04/10/2024 14:02:05 UTC
+ Last Updated on 04/10/2024 16:02:08 UTC
 <!--END_SECTION:waka-->
 
 </details>
