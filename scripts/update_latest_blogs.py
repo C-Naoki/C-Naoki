@@ -30,7 +30,7 @@ def prepare_content(zenn_ls: list, qiita_ls: list) -> str:
 
     articles_ls = []
     for za in zenn_ls[:5]:
-        article_txt = f"- {za['title']} [[Zenn]]({ZENN_BASE + za['slug']})"
+        article_txt = f"- {za['title']} [[Zenn]]({ZENN_BASE + za['path']})"
         qiita_url = next(
             (qa["url"] for qa in qiita_ls if qa["title"] == za["title"]), None
         )
