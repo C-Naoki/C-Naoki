@@ -29,10 +29,8 @@ jobs:
         pip install requests
 
     - name: Run
-      working-directory: ./scripts
       run: |
-        python update_latest_blogs.py
-        mv README.md ./../README.md
+        python scripts/update_latest_blogs.py
 
     - name: Commit files
       run: |
