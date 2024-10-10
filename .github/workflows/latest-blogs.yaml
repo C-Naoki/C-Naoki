@@ -18,7 +18,7 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v4
 
-    - name: Set up Python
+    - name: Setup Python
       uses: actions/setup-python@v2
       with:
         python-version: '3.9'
@@ -29,7 +29,7 @@ jobs:
         pip install requests
 
     - name: Run
-      working-directory: scripts
+      working-directory: ./scripts
       run: |
         python update_latest_blogs.py
         mv README.md ./../README.md
