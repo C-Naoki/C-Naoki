@@ -32,14 +32,17 @@ jobs:
       run: |
         python scripts/update_latest_blogs.py
 
+    - name: Check Diff
+      id: diff
+      run: |
+        git diff --name-only --exit-code
+      continue-on-error: true
+
     - name: Commit files
       run: |
+        git config --local user.name 'naoki'
+        git config --local user.email 'u429561d@ecs.osaka-u.ac.jp'
         git add README.md
-        if ! git diff --exit-code --quiet
-        then
-          git config --local user.name "naoki"
-          git config --local user.email "u429561d@ecs.osaka-u.ac.jp"
-          git add README.md
-          git commit -m "🔄 auto: update latest blogs"
-          git push
-        fi
+        git commit -m '🔄 auto: update latest blogs'
+        git push
+      if: steps.diff.outcome == 'failure'
