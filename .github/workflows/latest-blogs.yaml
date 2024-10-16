@@ -26,7 +26,7 @@ jobs:
     - name: Instell packages
       run: |
         python -m pip install --upgrade pip
-        pip install requests
+        pip install requests python-dateutil
 
     - name: Run
       run: |
