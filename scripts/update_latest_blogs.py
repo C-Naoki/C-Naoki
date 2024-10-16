@@ -1,8 +1,8 @@
 import requests
 
 GENERATE_FILE_NAME = "README.md"
-ZENN_URL = "https://zenn.dev/api/articles?username=naoki0103"
 ZENN_BASE = "https://zenn.dev/"
+ZENN_URL = "https://zenn.dev/api/articles?username=naoki0103"
 QIITAURL = "https://qiita.com/api/v2/users/c-naoki/items"
 
 
@@ -30,7 +30,7 @@ def prepare_content(zenn_ls: list, qiita_ls: list) -> str:
 
     articles_ls = []
     for za in zenn_ls[:5]:
-        article_txt = f"- {za['title']} [[Zenn]]({ZENN_BASE + za['path']})"
+        article_txt = f"- {za['emoji']} {za['title']} [[Zenn]]({ZENN_BASE + za['path']})"
         qiita_url = next(
             (qa["url"] for qa in qiita_ls if qa["title"] == za["title"]), None
         )
