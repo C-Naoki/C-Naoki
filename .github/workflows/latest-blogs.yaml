@@ -42,7 +42,7 @@ jobs:
       run: |
         git config --local user.name 'naoki'
         git config --local user.email 'u429561d@ecs.osaka-u.ac.jp'
-        git add README.md
+        git add README.md docs/blogs.md
         git commit -m '🔄 auto: update latest blogs'
         git push
       if: steps.diff.outcome == 'failure'
