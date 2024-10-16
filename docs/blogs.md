@@ -6,5 +6,5 @@
 [2024 Jul] 参考になった記事 覚書 [[Zenn]](https://zenn.dev//naoki0103/articles/informative-articles) [[Qiita]](https://qiita.com/C-naoki/items/71fe7fb602a388c4df6c)\
 [2024 May] PythonのTips集 [[Zenn]](https://zenn.dev//naoki0103/articles/python-tips-collection) [[Qiita]](https://qiita.com/C-naoki/items/015d40f2fb639cb43034)\
 [2024 Mar] PyCloneの紹介と使い方 [[Zenn]](https://zenn.dev//naoki0103/articles/introducing-pyclone) [[Qiita]](https://qiita.com/C-naoki/items/fb6ca30918270a8a8c7c)\
-[2024 Mar] Pythonプロジェクトのためのテンプレート: my-python-templateの紹介 [[Zenn]](https://zenn.dev//naoki0103/articles/my-python-template) [[Qiita]](https://qiita.com/C-naoki/items/b3e03163b12f819f699d)\
+[2024 Mar] Pythonプロジェクトのためのテンプレート: my-python-templateの紹介 [[Zenn]](https://zenn.dev//naoki0103/articles/my-python-template) [[Qiita]](https://qiita.com/C-naoki/items/b3e03163b12f819f699d)
 <!--END_SECTION:blogs-->
