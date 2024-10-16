@@ -41,11 +41,11 @@ Hi, I'm Naoki Chihara. I'm a second-year M.Sc. student at Osaka University.
 
 ### 📚 Latest Blogs
 <!--START_SECTION:blogs-->
-- Zenn vs Qiitaを終わらせに来た [[Zenn]](https://zenn.dev//naoki0103/articles/zenn-qiita-sync-workflow) [[Qiita]](https://qiita.com/C-naoki/items/5c5609b82a67335bf3be)
-- 画像結合のためのアルゴリズムを考えてみた [[Zenn]](https://zenn.dev//naoki0103/articles/image-stitcher-application) [[Qiita]](https://qiita.com/C-naoki/items/bf973b041709ad0cd635)
-- PythonのTips集 [[Zenn]](https://zenn.dev//naoki0103/articles/python-tips-collection) [[Qiita]](https://qiita.com/C-naoki/items/015d40f2fb639cb43034)
-- PLaMo-100Bのβ版トライアルAPIを用いてデモ用アプリを作ってみた [[Zenn]](https://zenn.dev//naoki0103/articles/plamo100b-demo) [[Qiita]](https://qiita.com/C-naoki/items/5c1f5bb06da94cc00b4b)
-- PyCloneの紹介と使い方 [[Zenn]](https://zenn.dev//naoki0103/articles/introducing-pyclone) [[Qiita]](https://qiita.com/C-naoki/items/fb6ca30918270a8a8c7c)
+- 🤖 Zenn vs Qiitaを終わらせに来た [[Zenn]](https://zenn.dev//naoki0103/articles/zenn-qiita-sync-workflow) [[Qiita]](https://qiita.com/C-naoki/items/5c5609b82a67335bf3be)
+- 😊 画像結合のためのアルゴリズムを考えてみた [[Zenn]](https://zenn.dev//naoki0103/articles/image-stitcher-application) [[Qiita]](https://qiita.com/C-naoki/items/bf973b041709ad0cd635)
+- 😇 PythonのTips集 [[Zenn]](https://zenn.dev//naoki0103/articles/python-tips-collection) [[Qiita]](https://qiita.com/C-naoki/items/015d40f2fb639cb43034)
+- 🙆 PLaMo-100Bのβ版トライアルAPIを用いてデモ用アプリを作ってみた [[Zenn]](https://zenn.dev//naoki0103/articles/plamo100b-demo) [[Qiita]](https://qiita.com/C-naoki/items/5c1f5bb06da94cc00b4b)
+- 🍣 PyCloneの紹介と使い方 [[Zenn]](https://zenn.dev//naoki0103/articles/introducing-pyclone) [[Qiita]](https://qiita.com/C-naoki/items/fb6ca30918270a8a8c7c)
 <!--END_SECTION:blogs-->
 
 ### 📊 GitHub Stats
