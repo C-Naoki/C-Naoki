@@ -39,7 +39,7 @@ Hi, I'm Naoki Chihara. I'm a second-year M.Sc. student at Osaka University.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&style=plastic)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-web-services&logoColor=white&style=plastic)
 
-### 📚 Latest Blogs
+### 📖 Latest Blogs
 <!--START_SECTION:blogs-->
 - 🤖 Zenn vs Qiitaを終わらせに来た [[Zenn]](https://zenn.dev//naoki0103/articles/zenn-qiita-sync-workflow) [[Qiita]](https://qiita.com/C-naoki/items/5c5609b82a67335bf3be)
 - 😊 画像結合のためのアルゴリズムを考えてみた [[Zenn]](https://zenn.dev//naoki0103/articles/image-stitcher-application) [[Qiita]](https://qiita.com/C-naoki/items/bf973b041709ad0cd635)
@@ -47,6 +47,7 @@ Hi, I'm Naoki Chihara. I'm a second-year M.Sc. student at Osaka University.
 - 🙆 PLaMo-100Bのβ版トライアルAPIを用いてデモ用アプリを作ってみた [[Zenn]](https://zenn.dev//naoki0103/articles/plamo100b-demo) [[Qiita]](https://qiita.com/C-naoki/items/5c1f5bb06da94cc00b4b)
 - 🍣 PyCloneの紹介と使い方 [[Zenn]](https://zenn.dev//naoki0103/articles/introducing-pyclone) [[Qiita]](https://qiita.com/C-naoki/items/fb6ca30918270a8a8c7c)
 <!--END_SECTION:blogs-->
+I refer you to check [here](./docs/blogs.md) for more blogs.
 
 ### 📊 GitHub Stats
 <span>
