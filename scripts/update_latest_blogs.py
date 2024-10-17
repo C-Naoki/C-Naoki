@@ -44,7 +44,7 @@ def prepare_content(zenn_ls: list, qiita_ls: list, n_blogs: int) -> str:
     articles_ls = []
     for za in sorted_zenn_ls[:n_blogs]:
         if n_blogs is None:
-            published_at = f"[{parser.parse(za['published_at']).strftime('%Y %b')}] "
+            published_at = f"[{parser.parse(za['published_at']).strftime('%Y-%m-%d')}] "
             emoji = ""
         else:
             published_at = "- "
