@@ -91,11 +91,15 @@ I refer you to check [here](./docs/blogs.md) for more blogs.
     <summary>&thinsp;Development Metrics</summary>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-594%20hrs%2042%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 519.6 kB Used in GitHub's Storage 
+> 📦 519.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 1,356 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -103,6 +107,47 @@ I refer you to check [here](./docs/blogs.md) for more blogs.
  > 
 > 🔑 21 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1661 commits        ███████████░░░░░░░░░░░░░░   43.90 % 
+🌆 Daytime                1013 commits        ███████░░░░░░░░░░░░░░░░░░   26.77 % 
+🌃 Evening                717 commits         █████░░░░░░░░░░░░░░░░░░░░   18.95 % 
+🌙 Night                  393 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   439 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
+Tuesday                  648 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
+Wednesday                516 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+Thursday                 549 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
+Friday                   581 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
+Saturday                 503 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
+Sunday                   548 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Tokyo
+
+💬 Programming Languages: 
+TypeScript               10 hrs 34 mins      ██████████████░░░░░░░░░░░   55.40 % 
+HTML                     1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
+Python                   1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
+JSON                     1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
+Markdown                 1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
+
+🔥 Editors: 
+VS Code                  19 hrs 4 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      16 hrs 48 mins      ██████████████████████░░░   88.09 % 
+Linux                    2 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -120,7 +165,7 @@ Makefile                 2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/C-Naoki/C-Naoki/main/assets/bar_graph.png)
 
 
- Last Updated on 01/07/2025 18:42:43 UTC
+ Last Updated on 02/07/2025 18:43:04 UTC
 <!--END_SECTION:waka-->
 
 </details>
