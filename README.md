@@ -91,15 +91,15 @@ I refer you to check [here](./docs/blogs.md) for more blogs.
     <summary>&thinsp;Development Metrics</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-691%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-692%20hrs%209%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 551.6 kB Used in GitHub's Storage 
+> 📦 551.7 kB Used in GitHub's Storage 
  > 
-> 🏆 1,636 Contributions in the Year 2025
+> 🏆 1,637 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -110,20 +110,20 @@ I refer you to check [here](./docs/blogs.md) for more blogs.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1897 commits        ████████████░░░░░░░░░░░░░   46.78 % 
-🌆 Daytime                1027 commits        ██████░░░░░░░░░░░░░░░░░░░   25.33 % 
-🌃 Evening                731 commits         █████░░░░░░░░░░░░░░░░░░░░   18.03 % 
+🌞 Morning                1898 commits        ████████████░░░░░░░░░░░░░   46.79 % 
+🌆 Daytime                1027 commits        ██████░░░░░░░░░░░░░░░░░░░   25.32 % 
+🌃 Evening                731 commits         █████░░░░░░░░░░░░░░░░░░░░   18.02 % 
 🌙 Night                  400 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
 Monday                   473 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
-Tuesday                  686 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.92 % 
+Tuesday                  686 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
 Wednesday                547 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
 Thursday                 586 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
 Friday                   623 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
-Saturday                 539 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
+Saturday                 540 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
 Sunday                   601 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.82 % 
 ```
 
@@ -165,7 +165,7 @@ Makefile                 2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/C-Naoki/C-Naoki/main/assets/bar_graph.png)
 
 
- Last Updated on 08/08/2025 18:44:22 UTC
+ Last Updated on 09/08/2025 18:43:03 UTC
 <!--END_SECTION:waka-->
 
 </details>
