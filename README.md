@@ -91,15 +91,15 @@ I refer you to check [here](./docs/blogs.md) for more blogs.
     <summary>&thinsp;Development Metrics</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C037%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C041%20hrs%2044%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 914.2 kB Used in GitHub's Storage 
+> 📦 914.5 kB Used in GitHub's Storage 
  > 
-> 🏆 2,720 Contributions in the Year 2025
+> 🏆 2,722 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -107,6 +107,46 @@ I refer you to check [here](./docs/blogs.md) for more blogs.
  > 
 > 🔑 25 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                2726 commits        █████████████░░░░░░░░░░░░   53.15 % 
+🌆 Daytime                1104 commits        █████░░░░░░░░░░░░░░░░░░░░   21.52 % 
+🌃 Evening                840 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
+🌙 Night                  459 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   614 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
+Tuesday                  828 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
+Wednesday                700 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
+Thursday                 750 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
+Friday                   795 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
+Saturday                 713 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
+Sunday                   729 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Tokyo
+
+💬 Programming Languages: 
+Python                   13 hrs 1 min        █████████████████████░░░░   85.00 % 
+Bash                     1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
+YAML                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+Git                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+CSV                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+
+🔥 Editors: 
+VS Code                  15 hrs 19 mins      █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      15 hrs 19 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Jupyter Notebook** 
 
 ```text
@@ -124,7 +164,7 @@ Makefile                 2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/C-Naoki/C-Naoki/main/assets/bar_graph.png)
 
 
- Last Updated on 27/12/2025 18:43:52 UTC
+ Last Updated on 28/12/2025 18:44:44 UTC
 <!--END_SECTION:waka-->
 
 </details>
