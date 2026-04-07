@@ -16,8 +16,8 @@
 </p>
 
 ### 🌟 About Me
-Hi, I'm Naoki Chihara. I'm a second-year M.Sc. student at Osaka University.
-- 🧳 I'm currently working as - Project researcher at <a href="https://www.sanken.osaka-u.ac.jp/en/" target="_blank">SANKEN</a>, <a href="https://www.sanken.osaka-u.ac.jp/en/" target="_blank">Osaka University</a>.
+Hi, I'm Naoki Chihara. I'm a second-year PhD student at The University of Osaka.
+- 🧳 I'm currently working as - Project researcher at <a href="https://www.sanken.osaka-u.ac.jp/en/" target="_blank">SANKEN</a>, <a href="https://www.osaka-u.ac.jp/en" target="_blank">The University of Osaka</a>.
 - 🌱 Current research interest -  Time series analysis, Data streams, Causal discovery, others.
 - 👥 I'm currently a member of - <a href="https://www.humanware.osaka-u.ac.jp/en/" target="_blank">Humanware Innovation Program</a>, <a href="https://gdsc-osaka.jp/" target="_blank">GDSC Osaka</a>.
 - 📫 How to reach me - <a href="https://c-naoki.vercel.app/" target="_blank">personal website</a>.
@@ -95,66 +95,66 @@ I refer you to check [here](./docs/blogs.md) for more blogs.
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
-> 📦 974.6 kB Used in GitHub's Storage 
- > 
+> 📦 974.6 kB Used in GitHub's Storage
+ >
 > 🏆 613 Contributions in the Year 2026
- > 
+ >
 > 🚫 Not Opted to Hire
- > 
-> 📜 29 Public Repositories 
- > 
-> 🔑 32 Private Repositories 
- > 
-**I'm an Early 🐤** 
+ >
+> 📜 29 Public Repositories
+ >
+> 🔑 32 Private Repositories
+ >
+**I'm an Early 🐤**
 
 ```text
-🌞 Morning                3337 commits        ██████████████░░░░░░░░░░░   54.88 % 
-🌆 Daytime                1198 commits        █████░░░░░░░░░░░░░░░░░░░░   19.70 % 
-🌃 Evening                987 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
-🌙 Night                  558 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
+🌞 Morning                3337 commits        ██████████████░░░░░░░░░░░   54.88 %
+🌆 Daytime                1198 commits        █████░░░░░░░░░░░░░░░░░░░░   19.70 %
+🌃 Evening                987 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.23 %
+🌙 Night                  558 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 %
 ```
-📅 **I'm Most Productive on Tuesday** 
+📅 **I'm Most Productive on Tuesday**
 
 ```text
-Monday                   746 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
-Tuesday                  970 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
-Wednesday                838 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
-Thursday                 874 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
-Friday                   948 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
-Saturday                 841 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
-Sunday                   863 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
+Monday                   746 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.27 %
+Tuesday                  970 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.95 %
+Wednesday                838 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.78 %
+Thursday                 874 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.37 %
+Friday                   948 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.59 %
+Saturday                 841 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.83 %
+Sunday                   863 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.19 %
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Asia/Tokyo
 
-💬 Programming Languages: 
-Python                   1 hr 57 mins        █████████████░░░░░░░░░░░░   50.46 % 
-Bash                     1 hr 14 mins        ████████░░░░░░░░░░░░░░░░░   31.98 % 
-Other                    15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
-TypeScript               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
-YAML                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
+💬 Programming Languages:
+Python                   1 hr 57 mins        █████████████░░░░░░░░░░░░   50.46 %
+Bash                     1 hr 14 mins        ████████░░░░░░░░░░░░░░░░░   31.98 %
+Other                    15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 %
+TypeScript               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
+YAML                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
 
-🔥 Editors: 
-VS Code                  3 hrs 52 mins       █████████████████████████   100.00 % 
+🔥 Editors:
+VS Code                  3 hrs 52 mins       █████████████████████████   100.00 %
 
-💻 Operating System: 
-Mac                      3 hrs 52 mins       █████████████████████████   100.00 % 
+💻 Operating System:
+Mac                      3 hrs 52 mins       █████████████████████████   100.00 %
 ```
 
-**I Mostly Code in Python** 
+**I Mostly Code in Python**
 
 ```text
-Python                   23 repos            ██████████░░░░░░░░░░░░░░░   40.35 % 
-Jupyter Notebook         18 repos            ████████░░░░░░░░░░░░░░░░░   31.58 % 
-TeX                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
-TypeScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
-Makefile                 2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+Python                   23 repos            ██████████░░░░░░░░░░░░░░░   40.35 %
+Jupyter Notebook         18 repos            ████████░░░░░░░░░░░░░░░░░   31.58 %
+TeX                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 %
+TypeScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 %
+Makefile                 2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 %
 ```
 
 
