@@ -99,7 +99,7 @@ I refer you to check [here](./docs/blogs.md) for more blogs.
 
 > 📦 1.0 MB Used in GitHub's Storage 
  > 
-> 🏆 1,179 Contributions in the Year 2026
+> 🏆 1,181 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -110,17 +110,17 @@ I refer you to check [here](./docs/blogs.md) for more blogs.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                3764 commits        ██████████████░░░░░░░░░░░   57.30 % 
+🌞 Morning                3766 commits        ██████████████░░░░░░░░░░░   57.31 % 
 🌆 Daytime                1228 commits        █████░░░░░░░░░░░░░░░░░░░░   18.69 % 
-🌃 Evening                1001 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
+🌃 Evening                1001 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
 🌙 Night                  576 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   811 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
-Tuesday                  1056 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
-Wednesday                918 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
+Monday                   811 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
+Tuesday                  1056 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
+Wednesday                920 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
 Thursday                 940 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
 Friday                   1015 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
 Saturday                 904 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
@@ -134,14 +134,13 @@ Sunday                   925 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-TeX                      2 mins              █████████████████████████   98.40 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -161,7 +160,7 @@ Makefile                 2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/C-Naoki/C-Naoki/main/assets/bar_graph.png)
 
 
- Last Updated on 23/06/2026 19:17:34 UTC
+ Last Updated on 24/06/2026 19:07:43 UTC
 <!--END_SECTION:waka-->
 
 </details>
