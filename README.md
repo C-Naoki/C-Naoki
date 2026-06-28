@@ -99,7 +99,7 @@ I refer you to check [here](./docs/blogs.md) for more blogs.
 
 > 📦 1.0 MB Used in GitHub's Storage 
  > 
-> 🏆 1,196 Contributions in the Year 2026
+> 🏆 1,206 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -110,21 +110,21 @@ I refer you to check [here](./docs/blogs.md) for more blogs.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                3779 commits        ██████████████░░░░░░░░░░░   57.39 % 
-🌆 Daytime                1228 commits        █████░░░░░░░░░░░░░░░░░░░░   18.65 % 
-🌃 Evening                1001 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
-🌙 Night                  577 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
+🌞 Morning                3789 commits        ██████████████░░░░░░░░░░░   57.45 % 
+🌆 Daytime                1228 commits        █████░░░░░░░░░░░░░░░░░░░░   18.62 % 
+🌃 Evening                1001 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
+🌙 Night                  577 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   811 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
-Tuesday                  1056 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
-Wednesday                920 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
-Thursday                 942 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
-Friday                   1016 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
-Saturday                 914 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
-Sunday                   926 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
+Monday                   811 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
+Tuesday                  1056 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
+Wednesday                920 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
+Thursday                 942 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
+Friday                   1016 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
+Saturday                 914 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
+Sunday                   936 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
 ```
 
 
@@ -134,13 +134,16 @@ Sunday                   926 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Text                     11 mins             ██████████████░░░░░░░░░░░   56.87 % 
+TypeScript               6 mins              ████████░░░░░░░░░░░░░░░░░   33.30 % 
+JSON                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
+Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  19 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      19 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -160,7 +163,7 @@ Makefile                 2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/C-Naoki/C-Naoki/main/assets/bar_graph.png)
 
 
- Last Updated on 27/06/2026 18:56:11 UTC
+ Last Updated on 28/06/2026 18:56:02 UTC
 <!--END_SECTION:waka-->
 
 </details>
