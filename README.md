@@ -91,7 +91,7 @@ I refer you to check [here](./docs/blogs.md) for more blogs.
     <summary>&thinsp;Development Metrics</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C460%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C461%20hrs%208%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -99,7 +99,7 @@ I refer you to check [here](./docs/blogs.md) for more blogs.
 
 > 📦 1.0 MB Used in GitHub's Storage 
  > 
-> 🏆 1,206 Contributions in the Year 2026
+> 🏆 1,214 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -110,21 +110,21 @@ I refer you to check [here](./docs/blogs.md) for more blogs.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                3789 commits        ██████████████░░░░░░░░░░░   57.45 % 
-🌆 Daytime                1228 commits        █████░░░░░░░░░░░░░░░░░░░░   18.62 % 
-🌃 Evening                1001 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
-🌙 Night                  577 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
+🌞 Morning                3798 commits        ██████████████░░░░░░░░░░░   57.75 % 
+🌆 Daytime                1224 commits        █████░░░░░░░░░░░░░░░░░░░░   18.61 % 
+🌃 Evening                981 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
+🌙 Night                  574 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   811 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
-Tuesday                  1056 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
-Wednesday                920 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
-Thursday                 942 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
-Friday                   1016 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
-Saturday                 914 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
-Sunday                   936 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
+Monday                   816 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
+Tuesday                  1052 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
+Wednesday                924 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
+Thursday                 939 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
+Friday                   1002 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
+Saturday                 909 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
+Sunday                   935 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
 ```
 
 
@@ -134,16 +134,17 @@ Sunday                   936 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Text                     11 mins             ██████████████░░░░░░░░░░░   56.87 % 
-TypeScript               6 mins              ████████░░░░░░░░░░░░░░░░░   33.30 % 
-JSON                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
-Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Text                     11 mins             ██████████░░░░░░░░░░░░░░░   41.68 % 
+TypeScript               10 mins             ██████████░░░░░░░░░░░░░░░   38.64 % 
+JSON                     3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
+CSS                      2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
+Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🔥 Editors: 
-VS Code                  19 mins             █████████████████████████   100.00 % 
+VS Code                  26 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      19 mins             █████████████████████████   100.00 % 
+Mac                      26 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -163,7 +164,7 @@ Makefile                 2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/C-Naoki/C-Naoki/main/assets/bar_graph.png)
 
 
- Last Updated on 28/06/2026 18:56:02 UTC
+ Last Updated on 29/06/2026 19:15:49 UTC
 <!--END_SECTION:waka-->
 
 </details>
