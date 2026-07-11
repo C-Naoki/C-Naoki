@@ -41,11 +41,11 @@ Hi, I'm Naoki Chihara. I'm a second-year PhD student at The University of Osaka.
 
 ### 📖 Latest Blogs
 <!--START_SECTION:blogs-->
+- 📐 LaTeXの小ワザ集 [[Zenn]](https://zenn.dev//naoki0103/articles/latex-snippets) [[Qiita]](https://qiita.com/C-naoki/items/670e48e3959ecb203e0d)
 - 🤖 Zenn vs Qiitaを終わらせに来た [[Zenn]](https://zenn.dev//naoki0103/articles/zenn-qiita-sync-workflow) [[Qiita]](https://qiita.com/C-naoki/items/5c5609b82a67335bf3be)
 - 😊 画像結合のためのアルゴリズムを考えてみた [[Zenn]](https://zenn.dev//naoki0103/articles/image-stitcher-application) [[Qiita]](https://qiita.com/C-naoki/items/bf973b041709ad0cd635)
 - 🙆 PLaMo-100Bのβ版トライアルAPIを用いてデモ用アプリを作ってみた [[Zenn]](https://zenn.dev//naoki0103/articles/plamo100b-demo) [[Qiita]](https://qiita.com/C-naoki/items/5c1f5bb06da94cc00b4b)
 - 🌝 参考になった記事 覚書 [[Zenn]](https://zenn.dev//naoki0103/articles/informative-articles) [[Qiita]](https://qiita.com/C-naoki/items/71fe7fb602a388c4df6c)
-- 😇 PythonのTips集 [[Zenn]](https://zenn.dev//naoki0103/articles/python-tips-collection) [[Qiita]](https://qiita.com/C-naoki/items/015d40f2fb639cb43034)
 <!--END_SECTION:blogs-->
 I refer you to check [here](./docs/blogs.md) for more blogs.
 
