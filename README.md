@@ -91,7 +91,7 @@ I refer you to check [here](./docs/blogs.md) for more blogs.
     <summary>&thinsp;Development Metrics</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C558%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C563%20hrs%201%20min-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -99,7 +99,7 @@ I refer you to check [here](./docs/blogs.md) for more blogs.
 
 > 📦 1.0 MB Used in GitHub's Storage 
  > 
-> 🏆 1,353 Contributions in the Year 2026
+> 🏆 1,354 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -110,7 +110,7 @@ I refer you to check [here](./docs/blogs.md) for more blogs.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                3918 commits        ███████████████░░░░░░░░░░   58.02 % 
+🌞 Morning                3919 commits        ███████████████░░░░░░░░░░   58.02 % 
 🌆 Daytime                1238 commits        █████░░░░░░░░░░░░░░░░░░░░   18.33 % 
 🌃 Evening                1009 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
 🌙 Night                  588 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
@@ -119,12 +119,12 @@ I refer you to check [here](./docs/blogs.md) for more blogs.
 
 ```text
 Monday                   836 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
-Tuesday                  1076 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
-Wednesday                954 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
-Thursday                 956 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
-Friday                   1035 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
+Tuesday                  1077 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
+Wednesday                954 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
+Thursday                 956 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
+Friday                   1035 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
 Saturday                 942 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
-Sunday                   954 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
+Sunday                   954 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
 ```
 
 
@@ -134,18 +134,18 @@ Sunday                   954 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Python                   49 hrs 40 mins      █████████████████░░░░░░░░   69.40 % 
-Markdown                 14 hrs 10 mins      █████░░░░░░░░░░░░░░░░░░░░   19.81 % 
-Bash                     5 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
-Other                    58 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
-CSV                      26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+Python                   53 hrs 24 mins      █████████████████░░░░░░░░   66.86 % 
+Markdown                 18 hrs 54 mins      ██████░░░░░░░░░░░░░░░░░░░   23.67 % 
+Bash                     4 hrs 35 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
+Other                    50 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+CSV                      32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
 
 🔥 Editors: 
-VS Code                  71 hrs 34 mins      █████████████████████████   100.00 % 
+VS Code                  79 hrs 53 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    62 hrs 57 mins      ██████████████████████░░░   87.98 % 
-Mac                      8 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
+Linux                    62 hrs 48 mins      ████████████████████░░░░░   78.62 % 
+Mac                      17 hrs 4 mins       █████░░░░░░░░░░░░░░░░░░░░   21.38 % 
 ```
 
 **I Mostly Code in Python** 
@@ -165,7 +165,7 @@ Makefile                 2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/C-Naoki/C-Naoki/main/assets/bar_graph.png)
 
 
- Last Updated on 20/07/2026 20:09:05 UTC
+ Last Updated on 21/07/2026 20:02:24 UTC
 <!--END_SECTION:waka-->
 
 </details>
