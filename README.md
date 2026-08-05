@@ -101,7 +101,7 @@ I refer you to check [here](./docs/blogs.md) for more blogs.
 
 > 📦 1.1 MB Used in GitHub's Storage 
  > 
-> 🏆 1,447 Contributions in the Year 2026
+> 🏆 1,448 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -112,8 +112,8 @@ I refer you to check [here](./docs/blogs.md) for more blogs.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                4008 commits        ███████████████░░░░░░░░░░   58.55 % 
-🌆 Daytime                1238 commits        █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
+🌞 Morning                4009 commits        ███████████████░░░░░░░░░░   58.56 % 
+🌆 Daytime                1238 commits        █████░░░░░░░░░░░░░░░░░░░░   18.08 % 
 🌃 Evening                1009 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
 🌙 Night                  590 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
 ```
@@ -122,7 +122,7 @@ I refer you to check [here](./docs/blogs.md) for more blogs.
 ```text
 Monday                   845 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
 Tuesday                  1087 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
-Wednesday                970 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
+Wednesday                971 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
 Thursday                 974 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
 Friday                   1042 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
 Saturday                 959 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
@@ -136,40 +136,40 @@ Sunday                   968 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Markdown                 18 hrs 11 mins      ███████████████░░░░░░░░░░   61.44 % 
-Other                    3 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
-TeX                      3 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
-Checksums                1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-TSV                      42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+Markdown                 12 hrs 59 mins      ███████████████░░░░░░░░░░   60.18 % 
+Other                    3 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
+TeX                      2 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
+Checksums                1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
+BibTeX                   22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
 
 🔥 Editors: 
-VS Code                  29 hrs 36 mins      █████████████████████████   100.00 % 
+VS Code                  21 hrs 34 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      28 hrs 26 mins      ████████████████████████░   96.07 % 
-Linux                    1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
+Mac                      20 hrs 39 mins      ████████████████████████░   95.71 % 
+Linux                    55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 28 hrs 35 mins (96.61%)
+⏱ AI Coding Time: 21 hrs (97.36%)
 
-✍️ 11,174 lines written by AI, 172 lines written by hand (98.48% AI-written)
+✍️ 5,525 lines written by AI, 62 lines written by hand (98.89% AI-written)
 
-🔤 8,764,769,751 Input Tokens, 39,837,495 Output Tokens
+🔤 7,899,321,166 Input Tokens, 35,283,439 Output Tokens
 
-💵 $12358.67 Estimated AI Cost This Week
+💵 $11539.40 Estimated AI Cost This Week
 
-🧠 156 AI Sessions, 232 AI Prompts
+🧠 109 AI Sessions, 112 AI Prompts
 
-GPT                      10,933 lines        █████████████████████████   100.00 % 
+GPT                      5,236 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.48% of written lines came from AI
-📚 Verbose Prompter — average 5,632 characters per prompt
+🤖 AI-Driven — 98.89% of written lines came from AI
+📚 Verbose Prompter — average 6,821 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 39.22% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 55.98% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -189,7 +189,7 @@ Makefile                 2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/C-Naoki/C-Naoki/main/assets/bar_graph.png)
 
 
- Last Updated on 04/08/2026 20:12:09 UTC
+ Last Updated on 05/08/2026 20:09:33 UTC
 <!--END_SECTION:waka-->
 
 </details>
