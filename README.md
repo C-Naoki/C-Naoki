@@ -91,7 +91,7 @@ I refer you to check [here](./docs/blogs.md) for more blogs.
     <summary>&thinsp;Development Metrics</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C610%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C611%20hrs%201%20min-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-380%20hrs%206%20mins-blue?style=flat)
 
@@ -101,7 +101,7 @@ I refer you to check [here](./docs/blogs.md) for more blogs.
 
 > 📦 1.1 MB Used in GitHub's Storage 
  > 
-> 🏆 1,482 Contributions in the Year 2026
+> 🏆 1,492 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -112,21 +112,21 @@ I refer you to check [here](./docs/blogs.md) for more blogs.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                4042 commits        ███████████████░░░░░░░░░░   58.76 % 
-🌆 Daytime                1238 commits        ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
-🌃 Evening                1009 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
-🌙 Night                  590 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
+🌞 Morning                4051 commits        ███████████████░░░░░░░░░░   58.80 % 
+🌆 Daytime                1239 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
+🌃 Evening                1009 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
+🌙 Night                  590 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   855 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
-Tuesday                  1087 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
-Wednesday                971 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
-Thursday                 979 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
-Friday                   1046 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
-Saturday                 963 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
-Sunday                   978 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
+Monday                   855 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
+Tuesday                  1097 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
+Wednesday                971 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
+Thursday                 979 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
+Friday                   1046 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
+Saturday                 963 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
+Sunday                   978 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
 ```
 
 
@@ -174,11 +174,11 @@ GPT                      15,388 lines        ███████████�
 **I Mostly Code in Python** 
 
 ```text
-Python                   27 repos            ███████████░░░░░░░░░░░░░░   42.19 % 
-Jupyter Notebook         21 repos            ████████░░░░░░░░░░░░░░░░░   32.81 % 
-TeX                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-TypeScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-Makefile                 2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+Python                   28 repos            ███████████░░░░░░░░░░░░░░   43.08 % 
+Jupyter Notebook         21 repos            ████████░░░░░░░░░░░░░░░░░   32.31 % 
+TeX                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
+TypeScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
+Makefile                 2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
 ```
 
 
@@ -188,7 +188,7 @@ Makefile                 2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/C-Naoki/C-Naoki/main/assets/bar_graph.png)
 
 
- Last Updated on 10/08/2026 19:32:37 UTC
+ Last Updated on 11/08/2026 19:37:29 UTC
 <!--END_SECTION:waka-->
 
 </details>
