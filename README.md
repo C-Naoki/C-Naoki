@@ -91,9 +91,9 @@ I refer you to check [here](./docs/blogs.md) for more blogs.
     <summary>&thinsp;Development Metrics</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C776%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C788%20hrs%2022%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-549%20hrs%2044%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-561%20hrs%2020%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -101,7 +101,7 @@ I refer you to check [here](./docs/blogs.md) for more blogs.
 
 > 📦 1.1 MB Used in GitHub's Storage 
  > 
-> 🏆 1,619 Contributions in the Year 2026
+> 🏆 1,626 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -112,21 +112,21 @@ I refer you to check [here](./docs/blogs.md) for more blogs.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                4139 commits        ███████████████░░░░░░░░░░   58.77 % 
-🌆 Daytime                1288 commits        █████░░░░░░░░░░░░░░░░░░░░   18.29 % 
-🌃 Evening                1022 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
+🌞 Morning                4146 commits        ███████████████░░░░░░░░░░   58.81 % 
+🌆 Daytime                1288 commits        █████░░░░░░░░░░░░░░░░░░░░   18.27 % 
+🌃 Evening                1022 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
 🌙 Night                  594 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   875 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
-Tuesday                  1112 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
-Wednesday                996 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
-Thursday                 1003 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
-Friday                   1074 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
-Saturday                 991 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
-Sunday                   992 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
+Monday                   875 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
+Tuesday                  1112 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
+Wednesday                996 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
+Thursday                 1003 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
+Friday                   1074 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
+Saturday                 991 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
+Sunday                   999 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
 ```
 
 
@@ -136,42 +136,42 @@ Sunday                   992 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Python                   30 hrs 53 mins      ██████████░░░░░░░░░░░░░░░   39.88 % 
-Markdown                 14 hrs 39 mins      █████░░░░░░░░░░░░░░░░░░░░   18.93 % 
-TeX                      11 hrs 36 mins      ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
-Other                    8 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
-Bash                     7 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
+Python                   34 hrs 34 mins      ██████████░░░░░░░░░░░░░░░   40.10 % 
+Markdown                 18 hrs 16 mins      █████░░░░░░░░░░░░░░░░░░░░   21.20 % 
+TeX                      11 hrs 36 mins      ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
+Other                    9 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
+Bash                     9 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
 
 🔥 Editors: 
-VS Code                  41 hrs 6 mins       █████████████░░░░░░░░░░░░   53.07 % 
-Codex Vscode             36 hrs 20 mins      ████████████░░░░░░░░░░░░░   46.93 % 
+Codex Vscode             44 hrs 16 mins      █████████████░░░░░░░░░░░░   51.35 % 
+VS Code                  41 hrs 55 mins      ████████████░░░░░░░░░░░░░   48.65 % 
 
 💻 Operating System: 
-Mac                      74 hrs 7 mins       ████████████████████████░   95.71 % 
-Linux                    3 hrs 19 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+Mac                      85 hrs 4 mins       █████████████████████████   98.70 % 
+Linux                    1 hr 7 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 71 hrs 24 mins (92.21%)
+⏱ AI Coding Time: 80 hrs 15 mins (93.1%)
 
-✍️ 25,095 lines written by AI, 38,009 lines written by hand (39.77% AI-written)
+✍️ 29,304 lines written by AI, 16,584 lines written by hand (63.86% AI-written)
 
-🔤 102,612,739 Input Tokens, 11,087,551 Output Tokens
+🔤 103,425,824 Input Tokens, 11,276,846 Output Tokens
 
-💵 $1656.49 Estimated AI Cost This Week
+💵 $1680.72 Estimated AI Cost This Week
 
-🧠 741 AI Sessions, 1317 AI Prompts
+🧠 732 AI Sessions, 1354 AI Prompts
 
-GPT                      26,139 lines        ████████████████████████░   96.00 % 
-Codex-Vscode             1,088 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+GPT                      30,356 lines        ████████████████████████░   96.54 % 
+Codex-Vscode             1,088 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 39.77% of written lines came from AI
-📚 Verbose Prompter — average 6,512 characters per prompt
+⚖️ Balanced with AI — 63.86% of written lines came from AI
+📚 Verbose Prompter — average 6,607 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 61.06% of changed lines were hand-edited
+🚀 High AI Trust — 40.74% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -191,7 +191,7 @@ Makefile                 2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/C-Naoki/C-Naoki/main/assets/bar_graph.png)
 
 
- Last Updated on 05/09/2026 20:37:03 UTC
+ Last Updated on 06/09/2026 20:41:17 UTC
 <!--END_SECTION:waka-->
 
 </details>
